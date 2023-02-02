@@ -1,1 +1,1 @@
-### Peer-Graded-Assignement
+### Peer-Graded-Assignment
